@@ -41,9 +41,8 @@ banking-system/
 └── README.md
 ________________________________________
 ⚙️ Setup & Installation
-1. Clone Repository
-git clone https://github.com/your-username/banking-system.git
-cd banking-system
+1. Clone Repository https://github.com/ghanshyamverma4654/Banking-Management-System
+git clone 
 2. Ensure JSON File Exists
 Create file:
 data/database.json
