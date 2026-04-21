@@ -73,15 +73,6 @@ Statistics:
 Total Users: 1
 Average Balance: 5000
 ________________________________________
-📸 Screenshots
-Add screenshots in a screenshots/ folder
-🔹 Menu Interface
- 
-🔹 Transactions
- 
-🔹 Statistics
- 
-________________________________________
 🛠️ Tech Stack
 •	Python
 •	JSON (File Handling)
